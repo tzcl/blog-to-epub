@@ -1,3 +1,4 @@
-# A collection of my favourite blogs as epubs
+# Blogs
 
-- 22/06 [Paul Graham: Essays](paulgraham.com/graham.epub)
+- 23/06 [Paul Graham: Essays](paulgraham.com/graham.epub)
+- 23/06 [Stepan Parunashvili: Essays](stopa.io/stopa.epub)
